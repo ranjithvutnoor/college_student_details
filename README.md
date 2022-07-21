@@ -1,2 +1,3 @@
 # college_student_details
-SQL database
+MYSQL database of college students and details.
+
